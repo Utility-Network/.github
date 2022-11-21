@@ -13,7 +13,7 @@ We focus on internet safety
 
 ### Projects
 **Current**
-- [Cobalt](https://github.com/Utility-Bookmarks/Cobalt) | Bookmarklet to disable trackers
+- [Cobalt](https://github.com/Utility-Network/Cobalt) | Bookmarklet to disable trackers
 
 **Upcoming**
 - DiscoBook | Bookmarklet to access Discord even when Discord is blocked
