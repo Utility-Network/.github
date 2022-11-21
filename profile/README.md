@@ -1,5 +1,5 @@
 <p align="center">
-  <img onclick="alert(`Hi!`)" width="120px" src="https://avatars.githubusercontent.com/u/115854218?s=200&v=4">
+  <img width="120px" src="https://avatars.githubusercontent.com/u/115854218?s=200&v=4">
 </p>
 
 <h1 align="center">Utility Network</h1>
